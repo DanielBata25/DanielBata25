@@ -10,11 +10,11 @@ Bachiller (I.E Técnico Superior)
 Projects 🏆
 En mi etapa práctica del Técnico en Programación de Software, tuve la oportunidad de desarrollar un proyecto junto con otro compañero para la empresa "Boutique N.T". El proyecto consistía en un Comercio básico pero funcional. Para el desarrollo del proyecto utilizamos las siguientes tecnologías:
 
-HTML
-CSS
-PHP
-JAVASCRIPT
-MYSQL
+-HTML
+-CSS
+-PHP
+-JAVASCRIPT
+-MYSQL
 
 Goals 🚀
 Mejorar mis habilidades como programador en diversas áreas, incluyendo la resolución de problemas, la optimización del código, el diseño de algoritmos eficientes, código escalable y limpio y la familiarización con nuevas tecnologías y frameworks.
