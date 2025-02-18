@@ -14,9 +14,9 @@
 - 📌 Bachiller (I.E Técnico Superior).  
 
 ## 📌 **Tecnologías y herramientas que utilizo:**  
-✔️ **Lenguajes:** JavaScript, PHP, SQL  
-✔️ **Bases de datos:** MySQL 
-✔️ **Herramientas:** Git, GitHub  
+-✔️ **Lenguajes:** JavaScript, PHP, SQL.  
+-✔️ **Bases de datos:** MySQL. 
+-✔️ **Herramientas:** Git, GitHub.  
 
 ## 📚 **Proyectos en los que estoy trabajando:**  
 🎵 Un juego de **piano interactivo** con almacenamiento de patrones musicales.  
