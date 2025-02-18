@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Daniel Felipe Bata  
+# Daniel Felipe Bata  
 
 💻 Desarrollador apasionado por la programación. Me encanta crear experiencias interactivas y explorar nuevas tecnologías. Actualmente, trabajo en proyectos que combinan **JavaScript, PHP y SQL**, enfocándome en **desarrollo web, bases de datos y lógica de videojuegos**.  
 
