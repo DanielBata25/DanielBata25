@@ -9,9 +9,9 @@
 - 📊 Interesado en bases de datos y estructuras eficientes.  
 
 ## 🎯 **Educacion:**  
--✔️Tecnólogo en Análisis y Desarrollo de Software (SENA) (En Desarrollo).
--✔️Técnico en Programación de Software (I.E Técnico Superior).
--✔️Bachiller (I.E Técnico Superior).
+- 🚀 Siempre en busca de nuevos retos y aprendizaje.  
+- 🎮 Apasionado por el desarrollo de videojuegos.  
+- 🛠️ Experimentando con nuevas herramientas y tecnologías.  
 
 ## 📌 **Tecnologías y herramientas que utilizo:**  
 ✔️ **Lenguajes:** JavaScript, PHP, SQL  
