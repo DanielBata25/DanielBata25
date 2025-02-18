@@ -9,15 +9,14 @@
 - 📊 Interesado en bases de datos y estructuras eficientes.  
 
 ## 🎯 **Educacion:**  
--Tecnólogo en Análisis y Desarrollo de Software (SENA) (En Desarrollo)
--Técnico en Programación de Software (I.E Técnico Superior)
--Bachiller (I.E Técnico Superior)
+-✔️Tecnólogo en Análisis y Desarrollo de Software (SENA) (En Desarrollo).
+-✔️Técnico en Programación de Software (I.E Técnico Superior).
+-✔️Bachiller (I.E Técnico Superior).
 
 ## 📌 **Tecnologías y herramientas que utilizo:**  
 ✔️ **Lenguajes:** JavaScript, PHP, SQL  
-✔️ **Bases de datos:** MySQL, PostgreSQL  
-✔️ **Frameworks:** Laravel, Node.js  
-✔️ **Herramientas:** Git, GitHub, Docker  
+✔️ **Bases de datos:** MySQL 
+✔️ **Herramientas:** Git, GitHub  
 
 ## 📚 **Proyectos en los que estoy trabajando:**  
 🎵 Un juego de **piano interactivo** con almacenamiento de patrones musicales.  
