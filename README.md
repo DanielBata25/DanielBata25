@@ -31,7 +31,7 @@
 
 ## 📫 **¡Hablemos!**  
 Si quieres colaborar en un proyecto o simplemente intercambiar ideas, contáctame en:  
-[GitHub](https://github.com/TU_USUARIO) | [LinkedIn](https://linkedin.com/in/TU_USUARIO) | 📩 **Correo:** tuemail@example.com  
+[GitHub](https://github.com/TU_USUARIO) | [LinkedIn](https://linkedin.com/in/TU_USUARIO) | 📩 **Correo:** batahernandez12345@gmail.com  
 
 
 
